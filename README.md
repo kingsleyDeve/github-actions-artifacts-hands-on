@@ -1,1 +1,1 @@
-# artifacts-hands-on
+# lab artifacts-hands-on
